@@ -4,7 +4,7 @@ setup(
     name='loggingWrapper',
     version='0.0.1',
     description='Logging Wrapper function to use across all repositories',
-    url='https://github.com/ujjawalontop2/ptolemaios/tree/logging',
+    url='https://github.com/ujjawalontop2/ptolemaios',
     author='Ujjawal Raj Ojha',
     author_email='ujjawal.raj@capriglobal.in',
     license='unlicensed',
