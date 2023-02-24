@@ -8,7 +8,7 @@ Logging Wrapper function to use across all repositories
 Use the package manager pip to install Toolbox like below. 
 Rerun this command to check for and install  updates .
 ```bash
-pip install git+https://github.com/ujjawal.raj/ptolemaios
+pip install git+https://github.com/ujjawalontop2/ptolemaios/tree/logging
 ```
 
 
